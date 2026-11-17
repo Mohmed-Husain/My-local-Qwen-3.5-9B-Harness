@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+eval*
+EVAL*
+*.json
+*.log
+t2.txt
+calc.py
+test_calc.py
+server.py
